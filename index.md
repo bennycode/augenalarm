@@ -1,9 +1,15 @@
 ---
-title: Home
+title: Startseite
 layout: home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: ""
 permalink: /
 ---
 
-# Hello World
+# Augenalarm
+{: .fs-9 }
+
+Augenalarm informiert über Netzhauterkrankungen und Operationen bei Netzhautlöchern und Netzhautablösungen aus der Sicht eines Betroffenen.
+{: .fs-6 .fw-300 }
+
+Autor: Benny Neugebauer
