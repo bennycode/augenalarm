@@ -8,6 +8,8 @@ published: true
 
 Der Glaskörper im Auge schrumpft mit dem Alter und kann an der Netzhaut ziehen, was zu einem Foramen führen kann. Besonders bei **Kurzsichtigkeit (Myopie)** ist die Netzhaut dünner und anfälliger für Löcher. Ein Netzhautloch allein führt nicht sofort zur Erblindung, aber es kann dazu führen, dass Flüssigkeit aus dem Glaskörper unter die Netzhaut gelangt. Dadurch kann sich die Netzhaut von ihrer Unterlage ablösen. Eine **Netzhautablösung** ist ein medizinischer Notfall, der ohne schnelle Behandlung zur permanenten Sehverschlechterung oder sogar zur Erblindung führen kann.
 
+Übrigens, [Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur eine Erscheinung, sondern eine anerkannte Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1).
+
 ## Diagnose
 
 Flüssigkeitsablagerungen hinter der Netzhaut, die durch Netzhautlöcher verursacht wurden, lassen sich durch eine **optische Kohärenztomografie (OCT)** erkennen. Die Netzhautlöcher selbst können durch eine Augenspiegelung (Ophthalmoskopie) und eine Fluoreszenzangiografie (Farbstoffuntersuchung zur Darstellung der Netzhautdurchblutung) erkannt werden.
@@ -38,7 +40,7 @@ Deshalb ist eine Netzhautablösung ein medizinischer Notfall, der sofort behande
 
 Ein höheres Risiko für eine rissbedingte Netzhautablösung besteht bei Menschen, die:
 
-- eine moderate Kurzsichtigkeit, zwischen -3,00 und -6,00 Dioptrien, bis hin zu starker Kurzsichtigkeit (Myopia magna) ab -6,00 Dioptrien haben ([Quelle](https://www.augenaerzte-in-duesseldorf.de/myopie/formen-und-komplikationen/))
+- eine moderate Kurzsichtigkeit (zwischen -3,00 und -6,00 Dioptrien) bis hin zu starker Kurzsichtigkeit (Myopia magna) ab -6,00 Dioptrien haben ([Quelle](https://www.augenaerzte-in-duesseldorf.de/myopie/formen-und-komplikationen/))
 - eine familiäre Veranlagung haben, also nahe Verwandte mit einer Netzhautablösung,
 - bereits eine Augenoperation hatten, etwa aufgrund eines Katarakts (Grauer Star) oder einer Fehlsichtigkeit (Kurz- oder Weitsichtigkeit),
 - eine Augenverletzung erlitten haben, beispielsweise durch Kampf- oder Ballsportarten.
