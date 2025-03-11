@@ -13,6 +13,8 @@ title: Startseite
 Augenalarm bietet Informationen zu Netzhauterkrankungen sowie zu Operationen bei Netzhautlöchern und Netzhautablösungen – aus der Perspektive eines Betroffenen.
 {: .fs-6 .fw-300 }
 
+---
+
 ## Vorwort
 
 Liebe Besucherinnen und Besucher, herzlich willkommen auf **Augenalarm.de** – einem Ratgeber für Betroffene von Netzhautablösungen.
