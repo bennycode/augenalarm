@@ -5,6 +5,15 @@ title: Hilfe
 ---
 
 # Hilfe
+{: .no_toc }
+
+## Inhaltsverzeichnis
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 Bei **Verdacht auf eine Netzhautablösung** ist **sofort** ein Augenarzt aufzusuchen – keine Zeit verstreichen lassen! Bestätigt sich die Diagnose und eine Not-OP wird erforderlich, solltet ihr wissen, dass ihr euch in **jeder Notaufnahme** (Rettungsstelle) vorstellen könnt. Falls mehrere Optionen bestehen, wählt die mit den erfahrensten Fachärzten.
 

@@ -29,6 +29,9 @@ url: https://augenalarm.de/
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+back_to_top: true
+back_to_top_text: "Nach Oben"  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
