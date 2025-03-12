@@ -80,6 +80,7 @@ In Deutschland sind rezeptfreie Schlaftabletten mit dem Wirkstoff Doxylaminsucci
 ## Fachbegriffe
 
 - Ablatio retinae ([Netzhautablösung](https://flexikon.doccheck.com/de/Netzhautabl%C3%B6sung))
+- Superior (oben, Stelle der Netzhautablösung)
 - Inferior (unten, Stelle der Netzhautablösung)
 - Mouches Volantes (Fliegende Mücken / Glaskörpertrübungen)
 - Netzhautforamen (Netzhautloch)
