@@ -15,3 +15,10 @@ Folgende Anlaufstellen bieten Unterstützung und Austauschmöglichkeiten:
 - [PRO RETINA Deutschland e.V.](https://www.pro-retina.de/) (Eine Selbsthilfeorganisation für Menschen mit Netzhautdegenerationen.)
 
 Falls ihr persönliche Fragen habt oder euch austauschen möchtet, könnt ihr mich (Benny Neugebauer) gerne per E-Mail unter **mail@bennycode.com** kontaktieren.
+
+## Videos
+
+Es gibt viele Betroffene, die ihre Erfahrungen auf YouTube teilen um anderen Mut zu machen und sich auszutauschen. Hier sind einige Beispiele:
+
+- [@KayKnows: 2 Retinal Detachment Surgeries in 2 Months](https://www.youtube.com/watch?v=klf3z63QMTA)
+- [Dani Lyn Design: Life After a Vitrectomy](https://www.youtube.com/watch?v=KKJwYGM43IE)
