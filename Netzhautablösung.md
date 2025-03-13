@@ -19,8 +19,6 @@ published: true
 
 Der Glaskörper im Auge schrumpft mit dem Alter und kann an der Netzhaut ziehen, was zu einem Foramen führen kann. Besonders bei **Kurzsichtigkeit (Myopie)** ist die Netzhaut dünner und anfälliger für Löcher. Ein Netzhautloch allein führt nicht sofort zur Erblindung, aber es kann dazu führen, dass Flüssigkeit aus dem Glaskörper unter die Netzhaut gelangt. Dadurch kann sich die Netzhaut von ihrer Unterlage ablösen. Eine **Netzhautablösung** ist ein medizinischer Notfall, der ohne schnelle Behandlung zur permanenten Sehverschlechterung oder sogar zur Erblindung führen kann.
 
-Übrigens, [Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur eine Erscheinung, sondern eine anerkannte Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1).
-
 ## Diagnose
 
 Flüssigkeitsablagerungen hinter der Netzhaut, die durch Netzhautlöcher verursacht wurden, lassen sich durch eine **optische Kohärenztomografie (OCT)** erkennen. Die Netzhautlöcher selbst können durch eine Augenspiegelung (Ophthalmoskopie) und eine Fluoreszenzangiografie (Farbstoffuntersuchung zur Darstellung der Netzhautdurchblutung) erkannt werden.
@@ -57,6 +55,12 @@ Ein höheres Risiko für eine rissbedingte Netzhautablösung besteht bei Mensche
 - eine Augenverletzung erlitten haben, beispielsweise durch Kampf- oder Ballsportarten
 - eine Netzhautablösung auf dem anderen Auge hatten (da beide Augen oft ähnliche anatomische Eigenschaften aufweisen)
 
+### Kurzsichtigkeit
+
+[Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1). Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). Eine Laseroperation wie LASIK oder [SMILE Pro](https://www.youtube.com/watch?v=L5VKnHpObUM) korrigiert die Sehstärke, ändert jedoch nichts an den strukturellen Veränderungen des Auges durch Myopie. Das Risiko für Netzhautablösungen, degenerative Veränderungen sowie grünen und grauen Star bleibt bestehen. Regelmäßige augenärztliche Kontrollen bleiben daher auch nach dem Eingriff wichtig.
+
+Myopie-Management kann bei Kindern helfen, das Fortschreiten der Kurzsichtigkeit zu verlangsamen und damit das Risiko späterer Augenerkrankungen zu reduzieren. Methoden wie spezielle Kontaktlinsen (Ortho-K oder multifokale Linsen), atropinhaltige Augentropfen und [ZEISS MyoCare Brillengläsern](https://www.zeiss.de/vision-care/fuer-augenoptiker/brillenglaeser/brillenglaeser-fuer-jeden-bedarf/das-neue-brillenglasdesign-um-die-fortschreitende-kurzsichtigkeit-myopie-bei-kindern-einzudaemmen.html) haben sich als wirksam erwiesen. Zwar kann Myopie nicht vollständig gestoppt werden, doch eine Verlangsamung des Fortschreitens kann das Risiko für Netzhautprobleme, grünen und grauen Star sowie andere langfristige Komplikationen deutlich senken.
+
 ### Medikamente
 
 Zudem können einige Medikamente das Risiko einer Netzhautablösung erhöhen oder eine bestehende Schwäche der Netzhaut verschlimmern. Dies betrifft insbesondere Medikamente, die den Augeninnendruck erhöhen. Ein erhöhter Augeninnendruck kann den Zug auf die Netzhaut verstärken, insbesondere bei Menschen mit prädisponierenden Faktoren wie hoher Myopie oder vorherigen Augenoperationen.
@@ -80,16 +84,18 @@ In Deutschland sind rezeptfreie Schlaftabletten mit dem Wirkstoff Doxylaminsucci
 ## Fachbegriffe
 
 - Ablatio retinae ([Netzhautablösung](https://flexikon.doccheck.com/de/Netzhautabl%C3%B6sung))
-- Superior (oben, Stelle der Netzhautablösung)
 - Inferior (unten, Stelle der Netzhautablösung)
+- International Statistical Classification of Diseases and Related Health Problems (ICD)
 - Mouches Volantes (Fliegende Mücken / Glaskörpertrübungen)
 - Netzhautforamen (Netzhautloch)
 - OCT / Optical coherence tomography (Optische Kohärenztomographie)
 - Oculus Dexter (Rechtes Auge)
 - Oculus Sinister (Linkes Auge)
 - Oculus Uterque (Beide Augen)
+- Superior (oben, Stelle der Netzhautablösung)
 
 ## Weitere Informationen
 
 - [Netzhautablösung auf gesundheitsinformation.de](https://www.gesundheitsinformation.de/netzhautabloesung.html)
 - [Patienteninformation: Netzhauterkrankungen (St.-Johannes-Hospital)](https://www.joho-dortmund.de/netzhauterkrankungen-klinik-fuer-augenheilkunde.html?file=files/st-johannes-hospital/dokumente-st-johannes-hospital/fachabteilungen/klinik-fuer-augenheilkunde/Online%20PDFs/Netzhautabloesung.pdf)
+- [Retinal Detachment in EyeWiki](https://eyewiki.org/Retinal_Detachment)

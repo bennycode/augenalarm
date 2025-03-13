@@ -20,3 +20,4 @@ title: Nachbehandlung
 
 - YUN (innerhalb von 20 Minuten)
 - Schönhelden Kontaktlinsen
+- https://www.verbraucherzentrale.de/wissen/gesundheit-pflege/krankenversicherung/neue-brille-krankenkasse-zahlt-nur-in-ausnahmefaellen-13686

@@ -52,6 +52,7 @@ Auch an Unterhaltung in Offline-Form solltet ihr denken. Audiobooks oder Zeitung
 
 1. **Notizen machen:** Ihr bekommt oft eine Zusammenfassung von einem Assistenzarzt, aber diese können Tippfehler oder widersprüchliche Aussagen enthalten. Verlasst euch nicht blind darauf, sondern achtet selbst genau darauf, was gesagt wird, und recherchiert die Aussagen gegebenenfalls.
 2. **Alle medizinischen Aufzeichnungen aushändigen lassen:** Eure Daten gehören euch. Ihr habt das Recht, jede OCT-Aufnahme oder jedes Operationsprotokoll direkt vor Ort ausdrucken zu lassen und mitzunehmen. Da die Digitalisierung in deutschen Krankenhäusern oft noch schleppend verläuft, sind vollständige Unterlagen essenziell, insbesondere wenn ihr die Klinik wechselt. So kann der Verlauf eurer Erkrankung besser nachverfolgt werden.
+3. **Digitale Patientenakte (ePA) prüfen:** Jede Diagnose wird in der digitalen Patientenakte erfasst. Es ist entscheidend, diese Einträge regelmäßig zu überprüfen. In meinem Fall gab es zwei fehlerhafte Diagnosen, die ich korrigieren lassen konnte. Falsche Diagnosen können gravierende Folgen haben, etwa bei der Aufnahme in eine private Krankenversicherung. Jede Diagnose ist mit einem ICD-Code versehen, über den sich mithilfe einer [ICD-Code-Suche](https://gesund.bund.de/icd-code-suche) allgemeine Informationen abrufen lassen.
 
 ## Zweitmeinungen
 
