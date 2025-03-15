@@ -10,7 +10,7 @@ title: Startseite
 # Augenalarm
 {: .fs-9 }
 
-Augenalarm bietet Informationen zu Netzhauterkrankungen sowie zu Operationen bei Netzhautlöchern und Netzhautablösungen – aus der Perspektive eines Betroffenen.
+Informationen zu Netzhauterkrankungen sowie zu Operationen bei Netzhautlöchern und Netzhautablösungen – aus der Perspektive eines Betroffenen.
 {: .fs-6 .fw-300 }
 
 ---

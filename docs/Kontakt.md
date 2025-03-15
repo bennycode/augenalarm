@@ -5,6 +5,11 @@ title: Kontakt
 ---
 
 # Kontakt
+{: .no_toc }
+{: .fs-9 }
+
+Nicht allein mit Netzhautablösung: Anlaufstellen, Selbsthilfegruppen, Videos von Betroffenen & Kontaktmöglichkeiten.
+{: .fs-6 .fw-300 }
 
 Bei schwerwiegenden Erkrankungen ist es besonders wertvoll, sich mit Menschen auszutauschen, die die eigene Situation wirklich verstehen. Dafür eignen sich vor allem andere Betroffene.
 
