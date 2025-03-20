@@ -26,7 +26,9 @@ Ein höheres Risiko für eine rissbedingte Netzhautablösung besteht bei Mensche
 
 ## Kurzsichtigkeit
 
-Bei einem kurzsichtigen Auge ist der Augapfel zu lang (siehe [Kurzsichtigkeit – Was ist das eigentlich?](https://www.youtube.com/watch?v=1wDUsoIdkHg)). [Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit. International wird die Diagnose "Myopie" mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1) klassifiziert. Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. 
+Bei einem kurzsichtigen Auge ist der Augapfel zu lang (siehe [Kurzsichtigkeit – Was ist das eigentlich?](https://www.youtube.com/watch?v=1wDUsoIdkHg)). 
+
+[Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit. International wird die Diagnose "Myopie" mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1) klassifiziert. Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. 
 
 Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). Deshalb ist es enorm wichtig, mindestens einmal jährlich eine augenärztliche Untersuchung durchführen zu lassen. Dabei können Folgeerkrankungen frühzeitig erkannt werden, sodass beispielsweise Netzhautlöcher rechtzeitig geschlossen und dadurch Netzhautablösungen sowie Erblindungen verhindert werden können.
 
