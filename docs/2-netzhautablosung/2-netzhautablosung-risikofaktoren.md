@@ -24,13 +24,29 @@ Ein höheres Risiko für eine rissbedingte Netzhautablösung besteht bei Mensche
 - eine Augenverletzung erlitten haben, beispielsweise durch Kampf- oder Ballsportarten
 - eine Netzhautablösung auf dem anderen Auge hatten (da beide Augen oft ähnliche anatomische Eigenschaften aufweisen)
 
-### Kurzsichtigkeit
+## Kurzsichtigkeit
 
-[Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1). Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). Eine Laseroperation wie LASIK oder [SMILE Pro](https://www.youtube.com/watch?v=L5VKnHpObUM) korrigiert die Sehstärke, ändert jedoch nichts an den strukturellen Veränderungen des Auges durch Myopie. Das Risiko für Netzhautablösungen, degenerative Veränderungen sowie grünen und grauen Star bleibt bestehen. Regelmäßige augenärztliche Kontrollen bleiben daher auch nach dem Eingriff wichtig.
+[Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1). Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). 
+
+### Kurzsichtigkeit und Augenkrankheiten
+
+Eine Laseroperation wie LASIK oder [SMILE Pro](https://www.youtube.com/watch?v=L5VKnHpObUM) korrigiert die Sehstärke, ändert jedoch nichts an den strukturellen Veränderungen des Auges durch Myopie. Das Risiko für Netzhautablösungen, degenerative Veränderungen sowie grünen und grauen Star bleibt bestehen. Regelmäßige augenärztliche Kontrollen bleiben daher auch nach dem Eingriff wichtig.
+
+Die Verbindung von Myopie mit Augenerkrankungen wie Glaukom und Netzhautablösung zeigt eine statistisch signifikante Krankheitsassoziation im Bereich von -3 bis -6 Dioptrien. Dies geht aus der Studie "The Complex Interactions of Retinal, Optical, and Environmental Factors in Myopia Aetiology" ([Quelle](https://pubmed.ncbi.nlm.nih.gov/22772022/)) hervor. 
+
+Die folgende Grafik zeigt das Risiko in Relation zu den erfassten Dioptriewerten:
+
+![Erkrankungsrisiko bei Myopie](./photos/erkrankungsrisiko-bei-myopie.png)
+
+### Myopie-Management bei Kindern 
 
 Myopie-Management kann bei Kindern helfen, das Fortschreiten der Kurzsichtigkeit zu verlangsamen und damit das Risiko späterer Augenerkrankungen zu reduzieren. Methoden wie spezielle Kontaktlinsen (Ortho-K oder multifokale Linsen), atropinhaltige Augentropfen und [ZEISS MyoCare Brillengläsern](https://www.zeiss.de/vision-care/fuer-augenoptiker/brillenglaeser/brillenglaeser-fuer-jeden-bedarf/das-neue-brillenglasdesign-um-die-fortschreitende-kurzsichtigkeit-myopie-bei-kindern-einzudaemmen.html) haben sich als wirksam erwiesen. Zwar kann Myopie nicht vollständig gestoppt werden, doch eine Verlangsamung des Fortschreitens kann das Risiko für Netzhautprobleme, grünen und grauen Star sowie andere langfristige Komplikationen deutlich senken.
 
-### Medikamente
+Um das Risiko einer zunehmenden Kurzsichtigkeit bei Ihrem Kind schnell und unkompliziert einzuschätzen, gibt es den [Online-Test von Myopia.care](https://www.myopia.care/myopia_test).
+
+Es gibt spezialisierte Optiker, die Lösungen für das Myopie-Management bei Kindern anbieten, wie beispielsweise die [Schönhelden aus Berlin](https://schoenhelden.de/).
+
+## Medikamente
 
 Zudem können einige Medikamente das Risiko einer Netzhautablösung erhöhen oder eine bestehende Schwäche der Netzhaut verschlimmern. Dies betrifft insbesondere Medikamente, die den Augeninnendruck erhöhen. Ein erhöhter Augeninnendruck kann den Zug auf die Netzhaut verstärken, insbesondere bei Menschen mit prädisponierenden Faktoren wie hoher Myopie oder vorherigen Augenoperationen.
 
@@ -44,7 +60,9 @@ Auch über die [Gelbe Liste](https://www.gelbe-liste.de/) lassen sich außerdem 
 
 In Deutschland sind rezeptfreie Schlaftabletten mit dem Wirkstoff Doxylaminsuccinat erhältlich. Sucht man Doxylamin bzw. Doxylaminsuccinat in der Gelben Liste, findet man unter dem Abschnitt [Kontraindikation](https://www.gelbe-liste.de/wirkstoffe/Doxylamin_21690#Kontraindikation) den Hinweis, dass dieser Wirkstoff bei einem Engwinkelglaukom (erhöhter Augeninnendruck) vermieden werden sollte. Aufgrund seiner anticholinergen Wirkung kann Doxylamin den Augeninnendruck weiter erhöhen und so das Risiko für Komplikationen verstärken.
 
-**Webseiten zur Recherche von Wirkstoffen:**  
+### Recherche von Wirkstoffen
+
+Webseiten zur Recherche von Wirkstoffen:
 
 - [Wirkstoffprofile](https://www.wirkstoffprofile.de/) – Informationen zu pharmazeutischen Wirkstoffen und deren Eigenschaften.  
 - [Gelbe Liste](https://www.gelbe-liste.de/wirkstoffe/) – Datenbank zu Medikamenten, Wirkstoffen und Kontraindikationen.  

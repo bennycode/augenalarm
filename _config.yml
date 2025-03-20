@@ -40,6 +40,10 @@ nav_external_links:
     url: https://augenrat.de/
     hide_icon: false
     opens_in_new_tab: true
+  - title: Gesundheitsinformation
+    url: https://www.gesundheitsinformation.de/
+    hide_icon: false
+    opens_in_new_tab: true    
 
 gh_edit_link: true
 gh_edit_link_text: "Seite bearbeiten"
