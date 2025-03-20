@@ -26,7 +26,7 @@ Da eine Netzhautablösung schmerzlos verläuft, wird sie von Betroffenen häufig
 
 Blitze oder bogenförmige Lichterscheinungen im Auge, insbesondere in der Dämmerung oder bei plötzlichen Bewegungen des Kopfes, können auf eine beginnende Netzhautablösung hindeuten. Diese Lichtphänomene entstehen, wenn der Glaskörper an der Netzhaut zieht und dort mechanische Reize auslöst. Die Blitze im Auge können auch wahrgenommen werden, wenn die Augen geschlossen sind. Dies liegt daran, dass diese Lichter nicht durch äußeres Licht verursacht werden, sondern durch mechanische Reize auf die Netzhaut.
 
-![Lichtblitze](https://www.gesundheitsinformation.de/grafiken/de_auge_netzhautabloesung_symptome_1von5_replacement_image.jpg)
+<!-- ![Lichtblitze](https://www.gesundheitsinformation.de/grafiken/de_auge_netzhautabloesung_symptome_1von5_replacement_image.jpg) -->
 
 ## Glaskörpertrübungen
 
@@ -34,4 +34,4 @@ Mouches volantes (engl. floaters) sind mehr oder weniger wahrnehmbare Punkte, Fl
 
 Bis zu einem gewissen Grad sind Mouches volantes harmlos, da sie selbst in jungen, gesunden Augen auftreten können. Ein plötzlicher Anstieg ihrer Anzahl kann jedoch darauf hindeuten, dass sich der Glaskörper ablöst. In einigen Fällen kann dies zu einer Zugbelastung auf die Netzhaut führen, was wiederum eine traktive Ablatio (zugbedingte Netzhautablösung) verursachen kann.
 
-![Mouches volantes](https://www.gesundheitsinformation.de/grafiken/de_auge_netzhautabloesung_symptome_2von5_replacement_image.jpg)
+<!-- ![Mouches volantes](https://www.gesundheitsinformation.de/grafiken/de_auge_netzhautabloesung_symptome_2von5_replacement_image.jpg) -->
