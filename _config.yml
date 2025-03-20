@@ -45,7 +45,7 @@ nav_external_links:
     hide_icon: false
     opens_in_new_tab: true    
 
-gh_edit_link: true
+gh_edit_link: false
 gh_edit_link_text: "Seite bearbeiten"
 gh_edit_repository: "https://github.com/bennycode/augenalarm"
 gh_edit_branch: "main" 
