@@ -5,15 +5,10 @@ nav_order: 5
 permalink: /netzhautablosung-folgen
 ---
 
-# Symptome
+# Folgen
 
-Eine Netzhautablösung äußert sich durch verschiedene Sehstörungen, darunter Lichtblitze, vermehrte Schlieren (Mouches volantes), schwarze Punkte, Schatten im Sichtfeld oder ein teilweiser bis vollständiger Sehverlust auf einem Auge.
+Die Netzhaut ist der lichtempfindliche Teil des Auges, der visuelle Reize in Nervenimpulse umwandelt und an das Gehirn weiterleitet. Sie funktioniert ähnlich wie der Sensor einer Kamera. Wenn sich die Netzhaut ablöst, verliert sie den Kontakt zur darunterliegenden Aderhaut, die sie mit Sauerstoff und Nährstoffen versorgt.
 
-Bei diesen Anzeichen ist es entscheidend, **sofort** eine Augenärztin oder einen Augenarzt aufzusuchen, da eine Netzhautablösung ein medizinischer Notfall ist. Ohne rasche Behandlung kann sich die Netzhaut weiter ablösen, was im schlimmsten Fall zur Erblindung des betroffenen Auges führt.
+Die Stäbchen und Zapfen, die lichtempfindlichen Sehzellen (Photorezeptoren) der Netzhaut, beginnen bereits nach kurzer Zeit abzusterben, wenn die Netzhaut den Kontakt zur Aderhaut verliert. Stäbchen sind für das Sehen bei schwachem Licht (Dämmerungs- und Nachtsehen) verantwortlich. Zapfen ermöglichen das Farbsehen und die scharfe Wahrnehmung bei Tageslicht. Ohne schnelle Behandlung sterben diese Sehzellen unwiederbringlich ab, da sich Nervenzellen nicht regenerieren. Der Sehverlust bleibt dann dauerhaft bestehen, selbst wenn die Netzhaut später wieder angelegt wird.
 
-Da eine Netzhautablösung schmerzlos verläuft, wird sie von Betroffenen häufig unterschätzt. Dies kann dazu führen, dass ärztliche Hilfe zu spät in Anspruch genommen wird.
-
-## Lichtblitze
-
-Blitze oder bogenförmige Lichterscheinungen im Auge, insbesondere in der Dämmerung oder bei plötzlichen Bewegungen des Kopfes, können auf eine beginnende Netzhautablösung hindeuten. Diese Lichtphänomene entstehen, wenn der Glaskörper an der Netzhaut zieht und dort mechanische Reize auslöst. Die Blitze im Auge können auch wahrgenommen werden, wenn die Augen geschlossen sind. Dies liegt daran, dass diese Lichter nicht durch äußeres Licht verursacht werden, sondern durch mechanische Reize auf die Netzhaut.
-
+Deshalb ist eine Netzhautablösung ein medizinischer Notfall, der sofort behandelt werden muss, um die Sehzellen wieder mit Nährstoffen zu versorgen und die Sehkraft zu erhalten.

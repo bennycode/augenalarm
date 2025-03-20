@@ -7,7 +7,7 @@ permalink: /netzhautablosung-fachbegriffe
 
 # Fachbegriffe
 
-- Ablatio retinae ([Netzhautablösung](https://flexikon.doccheck.com/de/Netzhautabl%C3%B6sung))
+- Ablatio retinae oder Amotio Retinae ([Netzhautablösung](https://flexikon.doccheck.com/de/Netzhautabl%C3%B6sung))
 - Inferior (unten, Stelle der Netzhautablösung)
 - International Statistical Classification of Diseases and Related Health Problems (ICD)
 - Mouches Volantes (Fliegende Mücken / Glaskörpertrübungen)
