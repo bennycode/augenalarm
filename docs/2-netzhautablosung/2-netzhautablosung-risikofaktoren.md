@@ -26,11 +26,33 @@ Ein höheres Risiko für eine rissbedingte Netzhautablösung besteht bei Mensche
 
 ## Kurzsichtigkeit
 
-[Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1). Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). 
+Bei einem kurzsichtigen Auge ist der Augapfel zu lang (siehe [Kurzsichtigkeit – Was ist das eigentlich?](https://www.youtube.com/watch?v=1wDUsoIdkHg)). [Kurzsichtigkeit](https://gesund.bund.de/kurzsichtigkeit) ist nicht nur ein Brechungsfehler (Refraktionsfehler), sondern laut National Academy of Sciences (NAS) eine Krankheit. International wird die Diagnose "Myopie" mit dem [ICD-Code H52.1](https://gesund.bund.de/icd-code-suche/h52-1) klassifiziert. Myopie stellt eine langfristige Gefahr für das Sehvermögen dar und kann zu Folgeerkrankungen wie grünem und grauem Star, Netzhautdegeneration, Netzhautablösung sowie Ödemen in der Makula (der Stelle des schärfsten Sehens) führen. 
 
-### Kurzsichtigkeit und Augenkrankheiten
+Bereits bei einer Kurzsichtigkeit von −1,00 bis −3,00 dpt ist das Risiko für Netzhautlöcher (Foramina) und Netzhautablösungen aufgrund der Deformation des Augapfels mehr als viermal so hoch. Überschreitet die Kurzsichtigkeit −3,00 dpt, steigt das Risiko sogar auf das Zehnfache ([Quelle](https://pubmed.ncbi.nlm.nih.gov/8484366/)). Deshalb ist es enorm wichtig, mindestens einmal jährlich eine augenärztliche Untersuchung durchführen zu lassen. Dabei können Folgeerkrankungen frühzeitig erkannt werden, sodass beispielsweise Netzhautlöcher rechtzeitig geschlossen und dadurch Netzhautablösungen sowie Erblindungen verhindert werden können.
 
-Eine Laseroperation wie LASIK oder [SMILE Pro](https://www.youtube.com/watch?v=L5VKnHpObUM) korrigiert die Sehstärke, ändert jedoch nichts an den strukturellen Veränderungen des Auges durch Myopie. Das Risiko für Netzhautablösungen, degenerative Veränderungen sowie grünen und grauen Star bleibt bestehen. Regelmäßige augenärztliche Kontrollen bleiben daher auch nach dem Eingriff wichtig.
+### Erfahrungsbericht: Augenärztliche Kontrolle
+
+Ich war regelmäßig beim Optiker, jedoch nicht jährlich beim Augenarzt. Dadurch blieben die Löcher in meiner Netzhaut am rechten Auge lange unentdeckt. Die Netzhautlöcher (Netzhautforamen) führten dazu, dass Flüssigkeit hinter meine Netzhaut geflossen ist und die Netzhaut abgehoben hat. Diese Netzhautablösung erforderte bei mir dringende stationäre Notoperationen (Mehrzahl).
+
+Die Notoperationen (in meinem Fall "Cerclage" und "pars-plana Vitrektomie") bewahren einen davor vollständig zu erblinden, allerdings entstehen bei beiden Eingriffen irreversible Schäden:
+
+- Durch die Cerclage wird das Auge um etwa 1,5 Dioptrien kurzsichtiger.
+- Die pars-plana Vitrektomie hat den Nachteil, dass das eingesetzte SF-6-Gas die Augenlinse trübt, wodurch Patienten viel früher eine künstliche Augenlinse benötigen werden.
+- Eine künstliche Augenlinse schränkt die Akkommodationsfähigkeit ein, also die Fähigkeit des Auges sich auf unterschiedliche Entfernungen scharf einzustellen.
+- In seltenen Fällen kann eine Vitrektomie zudem die Pupillenreaktion beeinträchtigen. Das führt zu einer Pupillenstarre (Pupillenrigidität), bei der die Pupille entweder dauerhaft erweitert (Mydriasis) oder verengt (Miosis) bleibt. Betroffene leiden dann unter Blendempfindlichkeit (bei erweiterter Pupille) oder eingeschränkter Nachtsicht (bei verengter Pupille).
+
+Wie ihr seht, haben zu spät erkannte Netzhautlöcher bei mir zu mehreren Not-OPs und dauerhaften Folgeschäden geführt – eine Erfahrung, die ich niemandem wünsche!
+
+Bei meinem linken Auge hatte ich Glück im Unglück: Dort entdeckte man die Netzhautlöcher frühzeitig (da beide Augen vor den OPs untersucht wurden). Die Netzhautlöcher an meinem linken Auge wurden dann durch eine Argon-Laserretinopexie ambulant geschlossen. Für mich war das ein fünfminütiger, schmerzfreier Eingriff, bei dem man lediglich in einen Laser schauen muss. Keine Vollnarkose, kein Krankenhausaufenthalt, keine 224 Tage Erholungszeit, keine bleibenden Schäden.
+
+**Mein Appell an euch:**
+Bucht euch einen Termin beim Augenarzt! Auch wenn ihr euch gesund fühlt und wunderbar sehen könnt. Ich dachte ebenfalls, dass ich so etwas nicht brauche – bis es zu spät war. Glaubt mir, eine Netzhautablösung ist etwas, das ihr unbedingt vermeiden wollt. Wer kurzsichtig ist, hat ein erhöhtes Risiko für Netzhautablösungen. Daher sind regelmäßige Untersuchungen beim Augenarzt unerlässlich!
+
+Übrigens, wer nicht zimperlich ist, kann sich hier eine Cerclage- und Vitrektomie-Operation ansehen ([Video](https://www.youtube.com/watch?v=CiPcvqyJzl4)).
+
+### Laseroperationen und Augenkrankheiten
+
+Eine Laseroperation wie LASIK oder [SMILE Pro](https://www.youtube.com/watch?v=L5VKnHpObUM) korrigiert die Sehstärke, ändert jedoch nichts an den strukturellen Veränderungen eines kurzsichtigen Auges. Das Risiko für Netzhautablösungen, degenerative Veränderungen sowie grünen und grauen Star bleibt bestehen. Regelmäßige augenärztliche Kontrollen bleiben daher auch nach dem Eingriff wichtig.
 
 Die Verbindung von Myopie mit Augenerkrankungen wie Glaukom und Netzhautablösung zeigt eine statistisch signifikante Krankheitsassoziation im Bereich von -3 bis -6 Dioptrien. Dies geht aus der Studie "The Complex Interactions of Retinal, Optical, and Environmental Factors in Myopia Aetiology" ([Quelle](https://pubmed.ncbi.nlm.nih.gov/22772022/)) hervor. 
 
