@@ -5,7 +5,7 @@ title: Arztsuche
 permalink: /arztsuche
 ---
 
-# Hilfe
+# Arztsuche
 {: .no_toc }
 {: .fs-9 }
 

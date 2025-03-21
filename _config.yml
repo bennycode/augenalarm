@@ -44,10 +44,22 @@ nav_external_links:
     url: https://www.gesundheitsinformation.de/
     hide_icon: false
     opens_in_new_tab: true    
+  # - title: Diagnose-Suche
+  #   url: https://gesund.bund.de/icd-code-suche
+  #   hide_icon: false
+  #   opens_in_new_tab: true
+  # - title: Medikamenten-Suche
+  #   url: https://www.gelbe-liste.de/profi-suche
+  #   hide_icon: false
+  #   opens_in_new_tab: true
+  # - title: Fachwort-Suche
+  #   url: https://flexikon.doccheck.com/
+  #   hide_icon: false
+  #   opens_in_new_tab: true    
 
 gh_edit_link: false
 gh_edit_link_text: "Seite bearbeiten"
 gh_edit_repository: "https://github.com/bennycode/augenalarm"
-gh_edit_branch: "main" 
+gh_edit_branch: "main"
 # gh_edit_source: "docs"
 gh_edit_view_mode: "tree"
