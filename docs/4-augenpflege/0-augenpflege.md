@@ -30,6 +30,18 @@ Nach meiner Vitrektomie litt ich unter stark trockenen Augen und stand vor der E
 
 Zum Zeitpunkt meiner Auswahl zählten vor allem drei Produktfamilien zu den bekanntesten Optionen: die HYLO®-Reihe von Ursapharm, die Systane®-Benetzungstropfen von Alcon und die Artelac®-Produktfamilie von Bausch + Lomb.
 
+### Lang anhaltende Wirkung
+
+Hyaluronsäure-Augentropfen sind grundsätzlich sehr beliebt und weit verbreitet zur Behandlung trockener Augen. Sie gelten als gut verträglich und wirksam, aber nicht in allen Fällen sind sie optimal. Bei evaporativem Trockenen Auge (wenn die Tränen zu schnell verdunsten) sind lipidhaltige Tropfen oft wirksamer, weil Hyaluronsäure nur die wässrige Phase unterstützt.
+
+### Verträglichkeit mit Kontaktlinsen
+
+Kontaktlinsen, besonders weiche, saugen Konservierungsmittel auf wie ein Schwamm. Diese Stoffe werden dann über Stunden langsam ans Auge abgegeben, was die Exposition deutlich verlängert und Reizungen verstärken kann. Für Kontaktlinsenträger:innen werden daher konservierungsmittelfreie Tränenersatzmittel empfohlen. Ohne Konservierungsstoffe sind die Tropfen jedoch weniger lang haltbar. Man muss also aufpassen, dass man sie nicht zu lange verwendet, um Keimbildung zu vermeiden. 
+
+**Kurz gesagt:** Tränenersatzmittel mit Konservierungsmittel sind für Brillenträger:innen gut geeignet, da sie lange nach Anbruch verwendet werden können (oft bis zu 6 Monate nach Anbruch). Tränenersatzmittel ohne Konservierungsmittel sollten aber besonders bei Träger:innen weicher Kontaktlinsen in Betracht gezogen werden, sind jedoch nur begrenzt haltbar (meist als Tagesdosen, vereinzelt auch bis zu drei Monate bei speziellen Mehrdosenbehältnissen).
+
+### Keine Schlierenbildung
+
 Ich habe zur Nachbehandlung meines operierten Auges Systane® Ultra Augentropfen von Alcon verwendet, die sich in Zusammensetzung und Wirkmechanismus deutlich von HYLO COMOD® unterscheiden. Während HYLO COMOD® auf Hyaluronsäure basiert, wirkt Systane® Ultra durch eine reaktive Gelbildung auf Basis von HP-Guar. HP-Guar reagiert im leicht basischen Tränenmilieu zu einem viskoelastischen Schutzfilm, der sich gezielt an trockene oder geschädigte Bereiche des Auges anlagert und so den natürlichen Tränenfilm stabilisiert. Laut Hersteller bietet Systane® Ultra dabei eine zweifach höhere Gleitfähigkeit im Vergleich zu Tropfen, die ausschließlich Hyaluronsäure enthalten ([Studie 1](https://iovs.arvojournals.org/article.aspx?articleid=2372767), [Studie 2](https://pubmed.ncbi.nlm.nih.gov/26067908/)).
 
 ### HYLO COMOD und HYLO GEL
